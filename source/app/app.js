@@ -1,5 +1,5 @@
 var App = function () {
-  this.core = "teste";
+  this.projectName = "project";
 }
 
 module.exports = App;
